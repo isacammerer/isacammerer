@@ -2,7 +2,7 @@
 ##
 
 <div align="align">
-  Sou biomédica e futura administradora com muita curiosidade sobre tecnologia. Atualmente em formação em Desenvolvimento Fullstack. <br>
+  Sou biomédica e administradora com muita curiosidade sobre tecnologia. Atualmente em formação em Desenvolvimento Fullstack. <br>
   Fui aluna do Gama XP #39 na Gama Academy e meu projeto final ficou em terceiro lugar.<br>
   Aqui você encontrará projetos realizados em cursos e trabalhos.
 </div>
